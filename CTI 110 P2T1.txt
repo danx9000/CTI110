@@ -1,0 +1,8 @@
+CTI 110
+Daniel Choe
+9/10/18
+P2T1_SalesPrediction
+
+DOC WASNT WORKING
+
+https://github.com/danx9000/CTI110/blob/master/P2T1_SalesPrediction_DanielChoe.py
