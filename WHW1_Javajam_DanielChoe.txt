@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>JavaJamCoffeeHouse</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Java Jam Coffee House</h1>
+    <h3></h3><a href="home.html">Home</a> &nbsp; <a href="Menu.html">Menu</a> &nbsp; <a href="Music.html">Music</a> &nbsp; <a href="Jobs.html">Jobs</a>
+    <h2> <strong>Relax at JavaJam</strong>
+    </h2>
+    <ul>
+    <li>Specialty, Coffee, and Tea
+      </li>
+      <li>Bagels, Muffins, and Organic Snacks</li>
+      <li>Music and Poetry Readings</li>
+      <li>Open Mic Night</li>
+      <h3></h3>
+
+    </ul>
+    <div>
+    54321 Route 42<br>
+      Ellison Bay, WI 54210<br>
+      888-555-5555
+    </div>
+    <h4></h4>
+    <div>
+    <small>
+      <i>Copyright &#9400 2016 JavaJam Coffee House<br>
+      <a href="mailto:yourfirstname@yourlastname.com">Daniel@Choe.com</a>
+      </i></small>
+    
+    
+    </div>
+  </body>
+</html>
